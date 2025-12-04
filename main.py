@@ -2,7 +2,7 @@
 # This is your first Python program
 
 # The print() function displays text on the screen
-print("Hello, World!")
+# print("Hello, World!")
 
 # Try printing your own message below:
-# print("Your message here")
+print("Hello Pinnacle")
