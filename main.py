@@ -5,4 +5,4 @@
 # print("Hello, World!")
 
 # Try printing your own message below:
-print("hello pinnacle")
+print("Hello Pinnacle")
